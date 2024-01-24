@@ -3,7 +3,7 @@
 Business-woman and mother of two daughters, who learned programming and realizes herself as a software developer.
 
 💬 Ask me about everything, you want.
-
+<!---
 **LymarMaryna/LymarMaryna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
