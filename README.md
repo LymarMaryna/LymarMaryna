@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Business-woman and mother of two daughters, who learned programming and realizes herself as a software developer.
+Mother of two daughters, who learned programming and realizes herself as a software developer.
 
 💬 Ask me about everything, you want.
 <!---
